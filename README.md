@@ -13,8 +13,6 @@ https://github.com/madhan-mech/Indian_Bike_Sales_Project/blob/main/bike_sales_in
 - Resale Trends Based on Avg distance(mileage) Travelled
 - DashBoard Analysis:
 - https://github.com/madhan-mech/Indian_Bike_Sales_Project/blob/main/Bike%20Sales%20Project%20in%20INDIA.png
--
--    <img width="1657" height="793" alt="Bike Sales Project in INDIA" src="https://github.com/user-attachments/assets/de634fde-f4ee-4a5f-8424-d15b0ca35a79" />
 ## Process
 - verify data for any missing ,duplicate values and anomalies, and sort out the same
 - make sure the data is clean,consistent w.r.t to data type,data format and values used
