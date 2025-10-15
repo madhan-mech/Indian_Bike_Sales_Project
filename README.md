@@ -24,6 +24,6 @@ https://github.com/madhan-mech/Indian_Bike_Sales_Project/blob/main/bike_sales_in
 ## Business Insights
 - Kawasaki,Yamaha & KTM arae top Brand sales
 - yamaha has more sale depriciation cost,20-30 mileage bikes are more sales,first owner has more sales,
-- punjab state and tier-3 city more sales.
+ punjab state and tier-3 city more sales.
 - Dealer:petrol,Individual:hybrid
 - 2015 has more sales and 2018 has less sales
